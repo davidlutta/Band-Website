@@ -1,0 +1,25 @@
+.header{
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 72px;
+}
+.Description{
+  font-family: monospace;
+  width: 30%;
+  float: left;
+  background-color: lightgrey;
+  text-align: left;
+  border-radius: 3px;
+}
+.images{
+  font-size: 0;
+  width: 320px;
+  margin: 0 auto;
+  padding: 10%;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  color: white
+}
